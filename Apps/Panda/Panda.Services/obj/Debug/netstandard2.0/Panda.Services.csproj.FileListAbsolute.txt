@@ -1,0 +1,24 @@
+C:\Users\kuman\OneDrive\Desktop\src\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Services.deps.json
+C:\Users\kuman\OneDrive\Desktop\src\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Services.dll
+C:\Users\kuman\OneDrive\Desktop\src\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Services.pdb
+C:\Users\kuman\OneDrive\Desktop\src\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Data.dll
+C:\Users\kuman\OneDrive\Desktop\src\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Data.pdb
+C:\Users\kuman\OneDrive\Desktop\src\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.csprojAssemblyReference.cache
+C:\Users\kuman\OneDrive\Desktop\src\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.csproj.CoreCompileInputs.cache
+C:\Users\kuman\OneDrive\Desktop\src\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.AssemblyInfoInputs.cache
+C:\Users\kuman\OneDrive\Desktop\src\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.AssemblyInfo.cs
+C:\Users\kuman\OneDrive\Desktop\src\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.csproj.CopyComplete
+C:\Users\kuman\OneDrive\Desktop\src\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.dll
+C:\Users\kuman\OneDrive\Desktop\src\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.pdb
+C:\Users\kuman\OneDrive\Desktop\C# Web Basics\SIS\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Services.deps.json
+C:\Users\kuman\OneDrive\Desktop\C# Web Basics\SIS\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Services.dll
+C:\Users\kuman\OneDrive\Desktop\C# Web Basics\SIS\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Services.pdb
+C:\Users\kuman\OneDrive\Desktop\C# Web Basics\SIS\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Data.dll
+C:\Users\kuman\OneDrive\Desktop\C# Web Basics\SIS\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Data.pdb
+C:\Users\kuman\OneDrive\Desktop\C# Web Basics\SIS\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.csprojAssemblyReference.cache
+C:\Users\kuman\OneDrive\Desktop\C# Web Basics\SIS\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.csproj.CoreCompileInputs.cache
+C:\Users\kuman\OneDrive\Desktop\C# Web Basics\SIS\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.AssemblyInfoInputs.cache
+C:\Users\kuman\OneDrive\Desktop\C# Web Basics\SIS\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.AssemblyInfo.cs
+C:\Users\kuman\OneDrive\Desktop\C# Web Basics\SIS\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.csproj.CopyComplete
+C:\Users\kuman\OneDrive\Desktop\C# Web Basics\SIS\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.dll
+C:\Users\kuman\OneDrive\Desktop\C# Web Basics\SIS\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.pdb
